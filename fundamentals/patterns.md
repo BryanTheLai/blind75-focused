@@ -362,7 +362,7 @@ These 6 patterns provide a direct path to solving the vast majority of your targ
 | ✅ | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ | 1. Hash Map |
 | ✅ | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | 1. Hash Map |
 | ✅ | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | 1. Hash Map |
-| | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | 1. Hash Map |
+| ✅ | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | 1. Hash Map |
 | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 7. 2-Pass |
 | | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | 1. Hash Map (Set variant) |
 | S | **2 Pointers & Sliding Window** | | |
