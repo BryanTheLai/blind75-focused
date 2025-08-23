@@ -354,14 +354,14 @@ def two_pass_pattern(nums):
 
 ### Pattern-to-Problem Mapping & Coverage
 
-These 7 patterns provide a direct path to solving the vast majority of your target problems.
+These 6 patterns provide a direct path to solving the vast majority of your target problems.
 
 | Tier | Problem | Solved by Pattern? | Pattern Used |
 | :--: | :--- | :---: | :--- |
 | S | **Arrays & Hashing** | | |
-| | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ | 1. Hash Map |
-| | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | 1. Hash Map |
-| | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | 1. Hash Map |
+| ✅ | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ | 1. Hash Map |
+| ✅ | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | 1. Hash Map |
+| ✅ | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | 1. Hash Map |
 | | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | 1. Hash Map |
 | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 7. 2-Pass |
 | | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | 1. Hash Map (Set variant) |
@@ -393,5 +393,3 @@ These 7 patterns provide a direct path to solving the vast majority of your targ
 *   **Total Problems in Tier S & A (from your list):** 25
 *   **Problems Directly Solved by these 7 Patterns:** 24
 *   **Coverage Rate:** **96%**
-
-The only outlier, `Binary Tree Level Order Traversal`, requires a queue-based Breadth-First Search (BFS) instead of a recursive Depth-First Search (DFS). It's a fundamental pattern worth learning separately but stands alone in this list.
