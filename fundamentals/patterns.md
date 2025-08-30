@@ -363,8 +363,8 @@ These 6 patterns provide a direct path to solving the vast majority of your targ
 | ✅ | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | 1. Hash Map |
 | ✅ | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | 1. Hash Map |
 | ✅ | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | 1. Hash Map |
-| | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 7. 2-Pass |
-| | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | 1. Hash Map (Set variant) |
+| ✅ | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 7. 2-Pass |
+| ✅ | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | 1. Hash Map (Set variant) |
 | S | **2 Pointers & Sliding Window** | | |
 | | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | 3. 2 Pointers |
 | | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | 2. Sliding Window (or 2 Pointers) |
