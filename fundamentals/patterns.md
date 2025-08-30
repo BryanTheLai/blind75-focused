@@ -366,14 +366,14 @@ These 6 patterns provide a direct path to solving the vast majority of your targ
 | ✅ | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 7. 2-Pass |
 | ✅ | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | 1. Hash Map (Set variant) |
 | S | **2 Pointers & Sliding Window** | | |
-| | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | 3. 2 Pointers |
-| | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | 2. Sliding Window (or 2 Pointers) |
+| ✅ | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | 3. 2 Pointers |
+| ✅ | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | 2. Sliding Window (or 2 Pointers) |
 | | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | 2. Sliding Window |
 | | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | 3. 2 Pointers (nested in loop) |
 | | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ | 3. 2 Pointers |
 | S | **Trees** | | |
-| | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ | 4. Tree DFS |
-| | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | 4. Tree DFS |
+| ✅ | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ | 4. Tree DFS |
+| ✅ | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | 4. Tree DFS |
 | | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ | 4. Tree DFS |
 | | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | 4. Tree DFS (variation) |
 | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅ | 4. Tree DFS (BST property) |
