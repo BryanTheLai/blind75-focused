@@ -368,7 +368,7 @@ These 6 patterns provide a direct path to solving the vast majority of your targ
 | S | **2 Pointers & Sliding Window** | | |
 | ✅ | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | 3. 2 Pointers |
 | ✅ | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | 2. Sliding Window (or 2 Pointers) |
-| | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | 2. Sliding Window |
+| ✅ | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | 2. Sliding Window |
 | ✅ | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | 3. 2 Pointers (nested in loop) |
 | ✅ | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ | 3. 2 Pointers |
 | S | **Trees** | | |
