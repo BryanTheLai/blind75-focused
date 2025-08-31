@@ -1,12 +1,3 @@
-Alright, Bryan, "Trees to A, Binary Search to S." Got it. Tactical re-tiering based on your immediate goals and perceived difficulty. Binary Search is absolutely a core `S` tier pattern when understood beyond the basics, so that's a smart move. Trees can indeed feel more conceptually complex to grasp fully, making `A` a reasonable tier for now.
-
-Here's the updated battle plan, reflecting those changes. Maintain focus, execute the plan.
-
----
-
-### **Strategic Internship Prep: The Lean, Mean Pattern Machine (Revised Tiering)**
-
-**Mission:** Achieve high-confidence competence in critical problem-solving patterns for ByteDance/MoneyLion AI Systems Engineer internship, maximizing learning efficiency for career pivot.
 
 | Tier | Pattern Category | Problem | Status | Pattern Used / Key Concept |
 | :--: | :--------------- | :---------------------------------------------------- | :----: | :---------------------------------------------------- |
