@@ -15,7 +15,7 @@
 | S | | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | Two Pointers (Nested in loop, duplicate handling) |
 | S | **Stack** | | | **(LIFO for matching & processing)** |
 | S | | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ | Stack (Matching opening/closing brackets) |
-| S | **Linked Lists (NEW!)** | | | **(Pointer manipulation)** |
+| S | **Linked Lists** | | | **(Pointer manipulation)** |
 | S | | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ⬜ | Iterative (Three pointers: `prev`, `curr`, `next`) |
 | S | | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ⬜ | Two Pointers (Iterative merging) |
 | S | **Trees (DFS)** | | | **(Depth-first recursive exploration)** |
@@ -25,7 +25,7 @@
 | S | | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | Tree DFS (Nested `isSameTree` checks) |
 | S | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary_search_tree/) | ✅ | Tree DFS (BST property for efficient traversal) |
 | S | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ⬜ | Tree DFS (Pass `min_val` / `max_val` bounds) |
-| S | **Breadth-First Search (BFS) (NEW!)** | | | **(Level-by-level exploration, uses a Queue)** |
+| S | **Breadth-First Search (BFS)** | | | **(Level-by-level exploration, uses a Queue)** |
 | S | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ⬜ | BFS (Queue-based iteration, current level processing) |
 | A | **Binary Search (Advanced)** | | | **(Logarithmic search on sorted/partially sorted data)** |
 | A | | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ⬜ | Binary Search (Identify sorted side, narrow search) |
@@ -33,7 +33,7 @@
 | A | **Heap / Priority Queue** | | | **(Efficient min/max retrieval)** |
 | A | | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ⬜ | Hash Map + Min-Heap (Maintain K largest elements) |
 | A | | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ⬜ | Two Heaps (Balance left Max-Heap, right Min-Heap) |
-| A | **Dynamic Programming (NEW!)** | | | **(Breaking problems into overlapping subproblems)** |
+| A | **Dynamic Programming** | | | **(Breaking problems into overlapping subproblems)** |
 | A | | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ⬜ | DP (Memoization / Tabulation, Fibonacci pattern) |
-| A | **Graphs (NEW!)** | | | **(Node & Edge relationships, traversal)** |
+| A | **Graphs** | | | **(Node & Edge relationships, traversal)** |
 | A | | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | ⬜ | Graph Traversal (DFS or BFS on 2D grid, mark visited) |
