@@ -380,7 +380,7 @@ These 6 patterns provide a direct path to solving the vast majority of your targ
 | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ❌ | *(Requires BFS, a different traversal)* |
 | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ | 4. Tree DFS (with range) |
 | S | **Stack** | | |
-| | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ | *(Implicit Stack Pattern)* |
+| ✅ | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ | *(Implicit Stack Pattern)* |
 | A | **Heap / Priority Queue** | | |
 | | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ | 1. Hash Map + Heap |
 | | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ✅ | 6. 2 Heaps |
