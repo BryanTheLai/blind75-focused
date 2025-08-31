@@ -19,9 +19,9 @@ _These patterns are the bedrock of technical interviews. Fluency here is non-neg
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [x] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### **Trees (Core Recursion & Hierarchical Data)**
 
