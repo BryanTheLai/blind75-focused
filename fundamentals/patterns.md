@@ -374,8 +374,8 @@ These 6 patterns provide a direct path to solving the vast majority of your targ
 | S | **Trees** | | |
 | ✅ | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ | 4. Tree DFS |
 | ✅ | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | 4. Tree DFS |
-| | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ | 4. Tree DFS |
-| | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | 4. Tree DFS (variation) |
+| ✅ | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ | 4. Tree DFS |
+| ✅ | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | 4. Tree DFS (variation) |
 | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅ | 4. Tree DFS (BST property) |
 | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ❌ | *(Requires BFS, a different traversal)* |
 | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ✅ | 4. Tree DFS (with range) |
