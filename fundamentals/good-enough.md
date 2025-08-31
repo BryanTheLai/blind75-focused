@@ -1,3 +1,13 @@
+Alright, Bryan, "Trees to A, Binary Search to S." Got it. Tactical re-tiering based on your immediate goals and perceived difficulty. Binary Search is absolutely a core `S` tier pattern when understood beyond the basics, so that's a smart move. Trees can indeed feel more conceptually complex to grasp fully, making `A` a reasonable tier for now.
+
+Here's the updated battle plan, reflecting those changes. Maintain focus, execute the plan.
+
+---
+
+### **Strategic Internship Prep: The Lean, Mean Pattern Machine (Revised Tiering)**
+
+**Mission:** Achieve high-confidence competence in critical problem-solving patterns for ByteDance/MoneyLion AI Systems Engineer internship, maximizing learning efficiency for career pivot.
+
 | Tier | Pattern Category | Problem | Status | Pattern Used / Key Concept |
 | :--: | :--------------- | :---------------------------------------------------- | :----: | :---------------------------------------------------- |
 | S | **Arrays & Hashing** | | | **(Basic data structure lookups & counts)** |
@@ -15,21 +25,21 @@
 | S | | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | Two Pointers (Nested in loop, duplicate handling) |
 | S | **Stack** | | | **(LIFO for matching & processing)** |
 | S | | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ | Stack (Matching opening/closing brackets) |
+| S | **Binary Search** | | | **(Logarithmic search on sorted/partially sorted data)** |
+| S | | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ⬜ | Binary Search (Identify sorted side, narrow search) |
+| S | | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ⬜ | Binary Search (Locate pivot, then standard search) |
 | S | **Linked Lists** | | | **(Pointer manipulation)** |
 | S | | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ⬜ | Iterative (Three pointers: `prev`, `curr`, `next`) |
-| S | | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ⬜ | Two Pointers (Iterative merging) |
-| S | **Trees (DFS)** | | | **(Depth-first recursive exploration)** |
-| S | | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ | Tree DFS (Swap children, simple recursion) |
-| S | | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | Tree DFS (Max of children's depth + 1) |
-| S | | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ | Tree DFS (Recursive value & structure comparison) |
-| S | | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | Tree DFS (Nested `isSameTree` checks) |
-| S | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary_search_tree/) | ✅ | Tree DFS (BST property for efficient traversal) |
-| S | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ⬜ | Tree DFS (Pass `min_val` / `max_val` bounds) |
-| S | **Breadth-First Search (BFS)** | | | **(Level-by-level exploration, uses a Queue)** |
-| S | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ⬜ | BFS (Queue-based iteration, current level processing) |
-| A | **Binary Search (Advanced)** | | | **(Logarithmic search on sorted/partially sorted data)** |
-| A | | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ⬜ | Binary Search (Identify sorted side, narrow search) |
-| A | | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ⬜ | Binary Search (Locate pivot, then standard search) |
+| S | | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted_lists/) | ⬜ | Two Pointers (Iterative merging) |
+| A | **Trees (DFS)** | | | **(Depth-first recursive exploration)** |
+| A | | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ | Tree DFS (Swap children, simple recursion) |
+| A | | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | Tree DFS (Max of children's depth + 1) |
+| A | | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ | Tree DFS (Recursive value & structure comparison) |
+| A | | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | Tree DFS (Nested `isSameTree` checks) |
+| A | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary_search_tree/) | ✅ | Tree DFS (BST property for efficient traversal) |
+| A | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ⬜ | Tree DFS (Pass `min_val` / `max_val` bounds) |
+| A | **Breadth-First Search (BFS)** | | | **(Level-by-level exploration, uses a Queue)** |
+| A | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ⬜ | BFS (Queue-based iteration, current level processing) |
 | A | **Heap / Priority Queue** | | | **(Efficient min/max retrieval)** |
 | A | | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ⬜ | Hash Map + Min-Heap (Maintain K largest elements) |
 | A | | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ⬜ | Two Heaps (Balance left Max-Heap, right Min-Heap) |
