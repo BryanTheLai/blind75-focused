@@ -35,7 +35,7 @@ _These patterns are the bedrock of technical interviews. Fluency here is non-neg
 
 ### **Stack (LIFO & Parsing)**
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ---
 
@@ -77,6 +77,24 @@ _Mastery here signals you can build complex systems. Highly relevant for Search,
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Tier B: Good-to-Know (10% of Effort)
@@ -101,6 +119,22 @@ _Familiarity with these patterns demonstrates breadth. Tackle these after master
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tier C: Deprioritize for Now
 
