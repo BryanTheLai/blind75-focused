@@ -8,19 +8,19 @@ _These patterns are the bedrock of technical interviews. Fluency here is non-neg
 
 ### **Arrays & Hashing (Core Data Manipulation)**
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ### **Two Pointers & Sliding Window (Sequence Optimization)**
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ### **Trees (Core Recursion & Hierarchical Data)**
