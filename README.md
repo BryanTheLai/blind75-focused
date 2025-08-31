@@ -26,9 +26,9 @@ _These patterns are the bedrock of technical interviews. Fluency here is non-neg
 ### **Trees (Core Recursion & Hierarchical Data)**
 
 - [x] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Same Tree](https://leetcode.com/problems/same-tree/)
+- [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
