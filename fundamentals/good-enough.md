@@ -7,13 +7,13 @@
 | S | | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | Hash Map (Value-to-index lookup) |
 | S | | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | Hash Map (Key = sorted string/char counts) |
 | S | | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | Hash Set (Efficient `num-1` check for start) |
-| S | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ? | 2-Pass Iteration (Prefix/Suffix Products) |
+| S | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 2-Pass Iteration (Prefix/Suffix Products) |
 | S | **Two Pointers & Sliding Window** | | | **(Optimizing array/string traversal)** |
 | S | | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | Two Pointers (In-place comparison) |
 | S | | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | Sliding Window (Greedy, single pass) |
 | S | | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ | Two Pointers (Greedy, move shorter height) |
-| S | | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ? | Sliding Window + Hash Set (Shrink from left on duplicate) |
-| S | | [3Sum](https://leetcode.com/problems/3sum/) | ? | Two Pointers (Nested in loop, duplicate handling) |
+| S | | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | Sliding Window + Hash Set (Shrink from left on duplicate) |
+| S | | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | Two Pointers (Nested in loop, duplicate handling) |
 | S | **Stack** | | | **(LIFO for matching & processing)** |
 | S | | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ? | Stack (Matching opening/closing brackets) |
 | S | **Binary Search** | | | **(Logarithmic search on sorted/partially sorted data)** |
