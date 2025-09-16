@@ -18,7 +18,7 @@
 | S | | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ? | Stack (Matching opening/closing brackets) |
 | S | **Binary Search** | | | **(Logarithmic search on sorted/partially sorted data)** |
 | S | | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | Binary Search (Identify sorted side, narrow search) |
-| S | | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ? | Binary Search (Locate pivot, then standard search) |
+| S | | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ | Binary Search (Locate pivot, then standard search) |
 | S | **Linked Lists** | | | **(Pointer manipulation)** |
 | S | | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ? | Iterative (Three pointers: `prev`, `curr`, `next`) |
 | S | | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ? | Two Pointers (Iterative merging) |
