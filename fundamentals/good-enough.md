@@ -7,7 +7,7 @@
 | S | | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | Hash Map (Value-to-index lookup) |
 | S | | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | Hash Map (Key = sorted string/char counts) |
 | S | | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | Hash Set (Efficient `num-1` check for start) |
-| S | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | - | 2-Pass Iteration (Prefix/Suffix Products) |
+| S | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 2-Pass Iteration (Prefix/Suffix Products) |
 | S | **Two Pointers & Sliding Window** | | | **(Optimizing array/string traversal)** |
 | S | | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | Two Pointers (In-place comparison) |
 | S | | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | Sliding Window (Greedy, single pass) |
