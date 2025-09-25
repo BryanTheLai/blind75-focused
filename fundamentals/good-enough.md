@@ -15,9 +15,9 @@
 | S | | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | Sliding Window + Hash Set (Shrink from left on duplicate) |
 | S | | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | Two Pointers (Nested in loop, duplicate handling) |
 | S | **Stack** | | | **(LIFO for matching & processing)** |
-| S | | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | - | Stack (Matching opening/closing brackets) |
+| S | | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ | Stack (Matching opening/closing brackets) |
 | S | **Binary Search** | | | **(Logarithmic search on sorted/partially sorted data)** |
-| S | | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | - | Binary Search (Identify sorted side, narrow search) |
+| S | | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | Binary Search (Identify sorted side, narrow search) |
 | S | | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | - | Binary Search (Locate pivot, then standard search) |
 | S | **Linked Lists** | | | **(Pointer manipulation)** |
 | S | | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | - | Iterative (Three pointers: `prev`, `curr`, `next`) |
