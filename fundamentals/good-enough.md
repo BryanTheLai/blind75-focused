@@ -27,7 +27,7 @@
 | A | | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | Tree DFS (Max of children's depth + 1) |
 | A | | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ | Tree DFS (Recursive value & structure comparison) |
 | A | | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | Tree DFS (Nested `isSameTree` checks) |
-| A | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary_search_tree/) | ✅ | Tree DFS (BST property for efficient traversal) |
+| A | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ✅ | Tree DFS (BST property for efficient traversal) |
 | A | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ⬜ | Tree DFS (Pass `min_val` / `max_val` bounds) |
 | A | **Breadth-First Search (BFS)** | | | **(Level-by-level exploration, uses a Queue)** |
 | A | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ⬜ | BFS (Queue-based iteration, current level processing) |
