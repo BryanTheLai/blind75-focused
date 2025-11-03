@@ -6,7 +6,7 @@
 | S | | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | Hash Map (Character counts) |
 | S | | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | Hash Map (Value-to-index lookup) |
 | S | | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | Hash Map (Key = sorted string/char counts) |
-| S | | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | - | Hash Set (Efficient `num-1` check for start) |
+| S | | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | Hash Set (Efficient `num-1` check for start) |
 | S | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ✅ | 2-Pass Iteration (Prefix/Suffix Products) |
 | S | **Two Pointers & Sliding Window** | | | **(Optimizing array/string traversal)** |
 | S | | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | Two Pointers (In-place comparison) |
@@ -18,7 +18,7 @@
 | S | | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ | Stack (Matching opening/closing brackets) |
 | S | **Binary Search** | | | **(Logarithmic search on sorted/partially sorted data)** |
 | S | | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | Binary Search (Identify sorted side, narrow search) |
-| S | | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | - | Binary Search (Locate pivot, then standard search) |
+| S | | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ | Binary Search (Locate pivot, then standard search) |
 | S | **Linked Lists** | | | **(Pointer manipulation)** |
 | S | | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | - | Iterative (Three pointers: `prev`, `curr`, `next`) |
 | S | | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | - | Two Pointers (Iterative merging) |
