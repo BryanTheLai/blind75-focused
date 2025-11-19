@@ -23,18 +23,18 @@
 | S | | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ | Iterative (Three pointers: `prev`, `curr`, `next`) |
 | S | | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ | Two Pointers (Iterative merging) |
 | A | **Trees (DFS)** | | | **(Depth-first recursive exploration)** |
-| A | | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | - | Tree DFS (Swap children, simple recursion) |
-| A | | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | - | Tree DFS (Max of children's depth + 1) |
-| A | | [Same Tree](https://leetcode.com/problems/same-tree/) | - | Tree DFS (Recursive value & structure comparison) |
-| A | | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | - | Tree DFS (Nested `isSameTree` checks) |
-| A | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | - | Tree DFS (BST property for efficient traversal) |
-| A | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ⬜ | Tree DFS (Pass `min_val` / `max_val` bounds) |
+| A | | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ | Tree DFS (Swap children, simple recursion) |
+| A | | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | Tree DFS (Max of children's depth + 1) |
+| A | | [Same Tree](https://leetcode.com/problems/same-tree/) | ✅ | Tree DFS (Recursive value & structure comparison) |
+| A | | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ✅ | Tree DFS (Nested `isSameTree` checks) |
+| A | | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 6 | Tree DFS (BST property for efficient traversal) |
+| A | | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 4 | Tree DFS (Pass `min_val` / `max_val` bounds) |
 | A | **Breadth-First Search (BFS)** | | | **(Level-by-level exploration, uses a Queue)** |
-| A | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ⬜ | BFS (Queue-based iteration, current level processing) |
+| A | | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 3 | BFS (Queue-based iteration, current level processing) |
 | A | **Heap / Priority Queue** | | | **(Efficient min/max retrieval)** |
-| A | | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ⬜ | Hash Map + Min-Heap (Maintain K largest elements) |
-| A | | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ⬜ | Two Heaps (Balance left Max-Heap, right Min-Heap) |
+| A | | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 5 | Hash Map + Min-Heap (Maintain K largest elements) |
+| A | | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 7 | Two Heaps (Balance left Max-Heap, right Min-Heap) |
 | A | **Dynamic Programming** | | | **(Breaking problems into overlapping subproblems)** |
-| A | | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ⬜ | DP (Memoization / Tabulation, Fibonacci pattern) |
+| A | | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 1 | DP (Memoization / Tabulation, Fibonacci pattern) |
 | A | **Graphs** | | | **(Node & Edge relationships, traversal)** |
-| A | | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | ⬜ | Graph Traversal (DFS or BFS on 2D grid, mark visited) |
+| A | | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 2 | Graph Traversal (DFS or BFS on 2D grid, mark visited) |
